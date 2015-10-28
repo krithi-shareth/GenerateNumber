@@ -1,0 +1,8 @@
+c:\users\sharethramh\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\sharethramh\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\sharethramh\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\sharethramh\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\sharethramh\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
+c:\users\sharethramh\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\sharethramh\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\ClassLibrary2.dll
+C:\Users\sharethramh\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\ClassLibrary2.pdb

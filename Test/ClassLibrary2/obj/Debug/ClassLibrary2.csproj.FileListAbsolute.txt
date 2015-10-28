@@ -1,0 +1,5 @@
+C:\Users\sharethramh\Documents\Visual Studio 2015\Projects\Test\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\sharethramh\Documents\Visual Studio 2015\Projects\Test\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\sharethramh\Documents\Visual Studio 2015\Projects\Test\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+C:\Users\sharethramh\Documents\Visual Studio 2015\Projects\Test\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\sharethramh\Documents\Visual Studio 2015\Projects\Test\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
